@@ -1,5 +1,6 @@
 # Proj1_FA22
 SI 206 Fall 22 Project 1
+
 Make at least 4 commits and upload a link to your repo to Canvas.
 
 git status (see what files have been changed and which are staged)
